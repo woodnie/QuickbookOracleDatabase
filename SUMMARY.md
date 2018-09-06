@@ -1,6 +1,6 @@
 # Summary
 
-* [Oracle Databae2](README.md)
+* [Introduction](README.md)
 * [Oracle Database](oracle_database\README.md)
   * [VUE](oracle_database\vue.md)
   * [Oracle Certified](oracle_database\oracle_certified\README.md)
@@ -24,3 +24,4 @@
     * [0](oracle_database\video_course\0.md)
     * [1.SQL select statement](oracle_database\video_course\1sql_select_statement.md)
     * [2.](oracle_database\video_course\2.md)
+
