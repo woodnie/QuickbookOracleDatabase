@@ -1,1 +1,0 @@
-## Oracle Database 11g {#oracle-database-11g}
